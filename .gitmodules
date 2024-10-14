@@ -1,6 +1,6 @@
 [submodule "frontend(web)"]
-	path = frontend
+	path = battleship-web
 	url = https://github.com/julianboehne/battleship-web.git
 [submodule "backend"]
-	path = backend
+	path = battleship-game
 	url = https://github.com/julianboehne/battleship-game.git
